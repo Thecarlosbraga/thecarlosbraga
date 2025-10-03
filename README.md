@@ -4,7 +4,7 @@
 
 Olá, eu sou Carlos Emanoel, tenho 25 anos e sou estudante de Engenharia de Software no primeiro semestre da Faculdade Católica de Joinville, Santa Catarina. Sou entusiasta de tecnologia e estou me aprimorando em programação, algoritmos e desenvolvimento de projetos.  
 
-Se quiser bater um papo ou trocar ideias, me chama no meu [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui) 💬.  
+Se quiser bater um papo ou trocar ideias, me chama no meu [LinkedIn](https://www.linkedin.com/in/thecarlosbraga) 💬.  
 Também criei um servidor no Discord para a turma, onde interessados podem participar e interagir.
 
 <p>
